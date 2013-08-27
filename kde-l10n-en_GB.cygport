@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-en_GB"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE British English translation files"
+DESCRIPTION="KDE British English translation files"
